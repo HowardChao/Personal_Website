@@ -2,4 +2,4 @@
 my personal website
 add domain hosting
 
-https://howardchao.github.io/Personal_Website/index.html
+http://kuanhao_chao.nctu.me
