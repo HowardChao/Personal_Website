@@ -2409,8 +2409,8 @@ input[type="button"].btn-block {
 .glyphicon-envelope:before {
   content: "\2709";
 }
-.glyphicon-pencil:before {
-  content: "\270f";
+.glyphicon-grain:before {
+  content:"\e239";
 }
 .glyphicon-glass:before {
   content: "\e001";
@@ -2464,7 +2464,7 @@ input[type="button"].btn-block {
   content: "\e018";
 }
 .glyphicon-cog:before {
-  content: "\e019";
+  content:"\e055";
 }
 .glyphicon-trash:before {
   content: "\e020";
@@ -2701,7 +2701,7 @@ input[type="button"].btn-block {
   content: "\e101";
 }
 .glyphicon-gift:before {
-  content: "\e102";
+  content:"\e171";
 }
 .glyphicon-leaf:before {
   content: "\e103";
